@@ -1,4 +1,4 @@
-<b>Vivienda</b> es una solución móvil completa para la gestión de inmuebles, desarrollada con Xamarin y .NET. Permite a los usuarios buscar propiedades por ubicación, tipo (departamentos, casas, oficinas), precio y características específicas (número de habitaciones, baños, estacionamiento, etc.). Además, ofrece herramientas para comparar propiedades, guardar favoritos y contactar directamente a los agentes inmobiliarios.
+<b>Vivienda</b> es una solución móvil completa para la gestión de inmuebles, desarrollada con Xamarin y .NET, siguiendo los principios de Clean Architecture. Permite a los usuarios buscar propiedades por ubicación, tipo (departamentos, casas, oficinas), precio y características específicas (número de habitaciones, baños, estacionamiento, etc.). Además, ofrece herramientas para comparar propiedades, guardar favoritos y contactar directamente a los agentes inmobiliarios.
 
 ## Autor
 
