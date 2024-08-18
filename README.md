@@ -4,7 +4,7 @@
 
 * **Nombre:** Luis Eduardo Cochachi Chamorro
 * **Profesión:** Desarrollador Full Stack
-* **Contacto:** luis.cochachi.eng@gmail.com
+* **Contacto:** luis.cochachi.eng@gmail.com 
 * **Linkedin:** [Mi perfil de LinkedIn](https://www.linkedin.com/in/luis-eduardo-cochachi-chamorro-659755b2/)
 
 ## Vivienda Views
