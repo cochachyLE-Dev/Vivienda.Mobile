@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>    
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="autofac" Version="6.1.0" />
+    <PackageReference Include="mediatr" Version="8.0.2" />
+  </ItemGroup>
+
+</Project>
