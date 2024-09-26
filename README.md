@@ -61,26 +61,6 @@ Puedes invitarme un café a través de Paypal: [Donar aquí](https://www.paypal.
 ¡Gracias por tu apoyo! 🚀
 
 ## Licencia
-```
-MIT License
-
 Copyright (C) 2024 Luis Eduardo Cochachi Chamorro
 
-Se otorga permiso, sin cargo, a cualquier persona que obtenga una copia
-de este software y de los archivos de documentación asociados (el
-"Software"), para tratar en el Software sin restricción, incluyendo sin
-limitación los derechos a usar, copiar, modificar, fusionar, publicar,
-distribuir, sublicenciar y/o vender copias del Software, y a permitir
-a las personas a las que se les proporcione el Software que lo hagan,
-siembre que incluya el aviso de copyright anterior y este aviso en
-todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROVEE "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA
-O IMPLÍCITA, INCLUYENDO PERO NO LIMITÁNDOSE A LAS GARANTÍAS DE
-COMERCIALIZACIÓN, ADECUACIÓN PARA UN PROPÓSITO PARTICULAR Y NO
-INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O LOS TITULARES DEL COPYRIGHT
-SERÁN RESPONSABLES DE CUALQUIER RECLAMO, DAÑO O OTRA RESPONSABILIDAD,
-YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRA ACCIÓN,
-QUE SURJA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRO TIPO DE
-INTERACCIONES EN EL SOFTWARE.
-```
+Este proyecto se distribuye bajo la licencia GNU General Public License versión 3 o cualquier versión posterior (GPLv3), con la excepción de vinculación comercial. Esto significa que puedes utilizar, modificar y distribuir este código libremente, incluso con fines comerciales, pero cualquer aplicación que combine este código con otros componentes debe ser liberada bajo la GPLv3.
