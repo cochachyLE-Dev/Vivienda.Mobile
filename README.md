@@ -1,12 +1,5 @@
 **Vivienda.Mobile** es una solución móvil completa para la gestión de inmuebles, desarrollada con Xamarin y .NET, siguiendo los principios de Clean Architecture. Permite a los usuarios buscar propiedades por ubicación, tipo (departamentos, casas, oficinas), precio y características específicas (número de habitaciones, baños, estacionamiento, etc.). Además, ofrece herramientas para comparar propiedades, guardar favoritos y contactar directamente a los agentes inmobiliarios.
 
-## Autor
-
-* **Nombre:** Luis Eduardo Cochachi Chamorro
-* **Profesión:** Desarrollador Full Stack
-* **Contacto:** luis.cochachi.eng@gmail.com 
-* **Linkedin:** [Mi perfil de LinkedIn](https://www.linkedin.com/in/luis-eduardo-cochachi-chamorro-659755b2/)
-
 ## Vivienda Views
 
 | Categoría | Subcategoría | Pantalla | Descripción |
@@ -50,6 +43,13 @@
 |  | Preguntas Frecuentes | Views\Help\FrequentQuestions.xaml | Preguntas Frecuentes |
 
 **Estado actual:** [work in progress]
+
+## Autor
+
+* **Nombre:** Luis Eduardo Cochachi Chamorro
+* **Profesión:** Desarrollador Full Stack
+* **Contacto:** luis.cochachi.eng@gmail.com 
+* **Linkedin:** [Mi perfil de LinkedIn](https://www.linkedin.com/in/luis-eduardo-cochachi-chamorro-659755b2/)
 
 ## ☕Invítame un café
 ¡Hola! Si disfrutas del proyecto y te gustaría apoyarlo de una manera diferente, puedes invitarme un café ☕ haciendo una donación. Esto me ayuda a seguir dedicando mi tiempo a mejorar el código y crear nuevas funcionalidades.
