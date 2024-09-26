@@ -56,7 +56,7 @@
 
 Soy un apasionado del desarrollo de software y siempre estoy buscando nuevas formas de aprender y compartir mis conocimientos. Cada contribución, por pequeña que sea, significa mucho para mí y me motiva a seguir adelante.
 
-Puedes invitarme un café a través de Paypal: [![Donar aquí]](https://www.paypal.com/paypalme/luiscochachichamorro)
+Puedes invitarme un café a través de Paypal: [Donar aquí](https://www.paypal.com/paypalme/luiscochachichamorro)
 
 ¡Gracias por tu apoyo! 🚀
 
